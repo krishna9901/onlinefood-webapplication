@@ -1,0 +1,5 @@
+**Database Name: foodorder_db**
+
+**Developed by Jons**
+
+**Recommended PHP Version 5.6.3**
